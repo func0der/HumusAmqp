@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.5.1](https://github.com/prolic/HumusAmqp/tree/v1.5.1)
+
+[Full Changelog](https://github.com/prolic/HumusAmqp/compare/v1.5.0...v1.5.1)
+
+**Implemented enhancements:**
+
+- Re-add support for PHP7.1
+
+
 ## [v1.5.0](https://github.com/prolic/HumusAmqp/tree/v1.5.0)
 
 [Full Changelog](https://github.com/prolic/HumusAmqp/compare/v1.4.2...v1.5.0)
